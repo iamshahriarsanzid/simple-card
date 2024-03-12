@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-bg {
+    background-image: url(/smoke-2467437.jpg);
+    height: 200px;
+    width: 400px;
+}
